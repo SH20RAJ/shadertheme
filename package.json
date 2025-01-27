@@ -8,14 +8,17 @@
     "vscode": "^1.60.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "keywords": [
     "theme",
     "dark theme",
     "light theme",
     "customizable",
-    "shader"
+    "shader",
+    "icon theme",
+    "file icons"
   ],
   "contributes": {
     "themes": [
@@ -28,6 +31,13 @@
         "label": "ShaderTheme Light",
         "uiTheme": "vs",
         "path": "./themes/shadertheme-light.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "shadertheme-icons",
+        "label": "ShaderTheme Icons",
+        "path": "./icons/file-icons.json"
       }
     ]
   },

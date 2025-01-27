@@ -1,0 +1,53 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./default_file.svg"
+    },
+    "_folder": {
+      "iconPath": "./default_folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./default_folder_open.svg"
+    },
+    "_js": {
+      "iconPath": "./js.svg"
+    },
+    "_ts": {
+      "iconPath": "./ts.svg"
+    },
+    "_py": {
+      "iconPath": "./py.svg"
+    },
+    "_json": {
+      "iconPath": "./json.svg"
+    },
+    "_html": {
+      "iconPath": "./html.svg"
+    },
+    "_css": {
+      "iconPath": "./css.svg"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "fileExtensions": {
+    "js": "_js",
+    "jsx": "_js",
+    "ts": "_ts",
+    "tsx": "_ts",
+    "py": "_py",
+    "json": "_json",
+    "html": "_html",
+    "css": "_css"
+  },
+  "folderNames": {},
+  "languageIds": {
+    "javascript": "_js",
+    "typescript": "_ts",
+    "python": "_py",
+    "json": "_json",
+    "html": "_html",
+    "css": "_css"
+  }
+}
