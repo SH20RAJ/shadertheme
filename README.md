@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support 💖
 
-If you like the theme, give it a ⭐ on [GitHub](https://github.com/username/shadertheme) or leave a review on the [VS Code Marketplace](https://marketplace.visualstudio.com/).
+If you like the theme, give it a ⭐ on [GitHub](https://github.com/sh20raj/shadertheme) or leave a review on the [VS Code Marketplace](https://marketplace.visualstudio.com/).
 
 ---
 
@@ -124,4 +124,4 @@ If you like the theme, give it a ⭐ on [GitHub](https://github.com/username/sha
 - Theme generator for custom color schemes
 - Workbench customization options
 
-Feel free to suggest new features or report issues on our [GitHub repository](https://github.com/username/shadertheme/issues)!
+Feel free to suggest new features or report issues on our [GitHub repository](https://github.com/sh20raj/shadertheme/issues)!
